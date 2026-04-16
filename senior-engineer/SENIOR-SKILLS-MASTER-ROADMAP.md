@@ -39,15 +39,15 @@
 
 ## 📋 7 Phases Overview
 
-| Phase | Topics | Tasks | Duration | Difficulty |
-|-------|--------|-------|----------|------------|
-| **01** | TypeScript Mastery | 50 (1-50) | 6-8 সপ্তাহ | 🟢🟡🔴 |
-| **02** | Git, GitHub & Open Source | 30 (51-80) | 3-4 সপ্তাহ | 🟢🟡🔴 |
-| **03** | Software Engineering Principles & Design Patterns | 50 (81-130) | 6-8 সপ্তাহ | 🟡🔴⚫ |
-| **04** | AI & LLM Integration | 35 (131-165) | 4-5 সপ্তাহ | 🟡🔴⚫ |
-| **05** | Developer Tools & Productivity | 25 (166-190) | 2-3 সপ্তাহ | 🟢🟡 |
-| **06** | Technical Communication & Code Review | 25 (191-215) | 3-4 সপ্তাহ | 🟡🔴 |
-| **07** | Leadership, Interview & Career Growth | 35 (216-250) | 4-5 সপ্তাহ | 🟡🔴⚫ |
+| Phase  | Topics                                            | Tasks        | Duration   | Difficulty |
+| ------ | ------------------------------------------------- | ------------ | ---------- | ---------- |
+| **01** | TypeScript Mastery                                | 50 (1-50)    | 6-8 সপ্তাহ | 🟢🟡🔴     |
+| **02** | Git, GitHub & Open Source                         | 30 (51-80)   | 3-4 সপ্তাহ | 🟢🟡🔴     |
+| **03** | Software Engineering Principles & Design Patterns | 50 (81-130)  | 6-8 সপ্তাহ | 🟡🔴⚫     |
+| **04** | AI & LLM Integration                              | 35 (131-165) | 4-5 সপ্তাহ | 🟡🔴⚫     |
+| **05** | Developer Tools & Productivity                    | 25 (166-190) | 2-3 সপ্তাহ | 🟢🟡       |
+| **06** | Technical Communication & Code Review             | 25 (191-215) | 3-4 সপ্তাহ | 🟡🔴       |
+| **07** | Leadership, Interview & Career Growth             | 35 (216-250) | 4-5 সপ্তাহ | 🟡🔴⚫     |
 
 **Total: 250 Tasks | Timeline: ~6-8 মাস (Backend/Frontend plan এর সাথে parallel চলবে)**
 
@@ -55,12 +55,12 @@
 
 ## 🎯 Difficulty Levels
 
-| Icon | Level | Time | Example |
-|------|-------|------|---------|
-| 🟢 | Easy | 1-3 hrs | Basic TypeScript types, Git commands |
-| 🟡 | Medium | 3-8 hrs | Generics, Design patterns, Code review |
-| 🔴 | Hard | 1-3 days | Advanced TypeScript, AI RAG system, System design |
-| ⚫ | God Level | 3-7 days | Full projects, Architecture decisions, AI production |
+| Icon | Level     | Time     | Example                                              |
+| ---- | --------- | -------- | ---------------------------------------------------- |
+| 🟢   | Easy      | 1-3 hrs  | Basic TypeScript types, Git commands                 |
+| 🟡   | Medium    | 3-8 hrs  | Generics, Design patterns, Code review               |
+| 🔴   | Hard      | 1-3 days | Advanced TypeScript, AI RAG system, System design    |
+| ⚫   | God Level | 3-7 days | Full projects, Architecture decisions, AI production |
 
 ---
 
@@ -84,40 +84,40 @@ Month 7-8:   Phase 5 (Tools) + Phase 6 (Communication) + Phase 7 (Leadership)
 
 ## 🔑 এই Plan এ কী কী আছে যেটা অন্য Plan এ নেই
 
-| Skill | কেন দরকার | কোথায় |
-|-------|-----------|--------|
-| **TypeScript** | 2026 এ TypeScript ছাড়া কোনো serious project নেই | Phase 1 |
-| **Advanced Git** | Team এ কাজ করতে গেলে Git master হতে হবে | Phase 2 |
-| **Open Source** | Portfolio + reputation + real-world experience | Phase 2 |
-| **SOLID Principles** | Clean, maintainable code লেখার foundation | Phase 3 |
-| **Design Patterns** | GoF patterns — interview ও practical কাজে লাগে | Phase 3 |
-| **Clean Code** | Code পড়তে ও maintain করতে সহজ হবে | Phase 3 |
-| **AI/LLM APIs** | 2026 এ প্রতিটা product এ AI feature চায় companies | Phase 4 |
-| **RAG & Vector DB** | AI-powered search/chat — hottest skill right now | Phase 4 |
+| Skill                  | কেন দরকার                                           | কোথায়  |
+| ---------------------- | --------------------------------------------------- | ------- |
+| **TypeScript**         | 2026 এ TypeScript ছাড়া কোনো serious project নেই    | Phase 1 |
+| **Advanced Git**       | Team এ কাজ করতে গেলে Git master হতে হবে             | Phase 2 |
+| **Open Source**        | Portfolio + reputation + real-world experience      | Phase 2 |
+| **SOLID Principles**   | Clean, maintainable code লেখার foundation           | Phase 3 |
+| **Design Patterns**    | GoF patterns — interview ও practical কাজে লাগে      | Phase 3 |
+| **Clean Code**         | Code পড়তে ও maintain করতে সহজ হবে                  | Phase 3 |
+| **AI/LLM APIs**        | 2026 এ প্রতিটা product এ AI feature চায় companies  | Phase 4 |
+| **RAG & Vector DB**    | AI-powered search/chat — hottest skill right now    | Phase 4 |
 | **Prompt Engineering** | AI কে ভালোভাবে use করা — developer productivity 10x | Phase 4 |
-| **Monorepo Tools** | Turborepo/Nx — large project management | Phase 5 |
-| **Code Review** | Senior dev এর #1 daily task | Phase 6 |
-| **Technical Writing** | Blog, docs, RFC — thought leadership | Phase 6 |
-| **Mentoring** | Senior → Lead transition এর জন্য must | Phase 7 |
-| **Agile/Scrum** | Team workflow management | Phase 7 |
-| **Interview Prep** | Behavioral + System Design + Negotiation | Phase 7 |
+| **Monorepo Tools**     | Turborepo/Nx — large project management             | Phase 5 |
+| **Code Review**        | Senior dev এর #1 daily task                         | Phase 6 |
+| **Technical Writing**  | Blog, docs, RFC — thought leadership                | Phase 6 |
+| **Mentoring**          | Senior → Lead transition এর জন্য must               | Phase 7 |
+| **Agile/Scrum**        | Team workflow management                            | Phase 7 |
+| **Interview Prep**     | Behavioral + System Design + Negotiation            | Phase 7 |
 
 ---
 
 ## 📚 Key Resources
 
-| Resource | Type | কোন Phase এ |
-|----------|------|-------------|
-| TypeScript Handbook (official) | Docs | Phase 1 |
-| Total TypeScript (Matt Pocock) | Course | Phase 1 |
-| Pro Git Book (Scott Chacon) | Book | Phase 2 |
-| Clean Code (Robert C. Martin) | Book | Phase 3 |
-| Head First Design Patterns | Book | Phase 3 |
-| Refactoring (Martin Fowler) | Book | Phase 3 |
-| OpenAI API Docs | Docs | Phase 4 |
-| LangChain / LlamaIndex | Framework | Phase 4 |
-| The Manager's Path | Book | Phase 7 |
-| Staff Engineer (Will Larson) | Book | Phase 7 |
+| Resource                       | Type      | কোন Phase এ |
+| ------------------------------ | --------- | ----------- |
+| TypeScript Handbook (official) | Docs      | Phase 1     |
+| Total TypeScript (Matt Pocock) | Course    | Phase 1     |
+| Pro Git Book (Scott Chacon)    | Book      | Phase 2     |
+| Clean Code (Robert C. Martin)  | Book      | Phase 3     |
+| Head First Design Patterns     | Book      | Phase 3     |
+| Refactoring (Martin Fowler)    | Book      | Phase 3     |
+| OpenAI API Docs                | Docs      | Phase 4     |
+| LangChain / LlamaIndex         | Framework | Phase 4     |
+| The Manager's Path             | Book      | Phase 7     |
+| Staff Engineer (Will Larson)   | Book      | Phase 7     |
 
 ---
 
